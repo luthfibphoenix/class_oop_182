@@ -9,5 +9,8 @@ public:
 		cout << "NIM= " << nim;
 		cout << "\nNama " << nama;
 	}
+};
+
+class Matakuliah {
 
 };
