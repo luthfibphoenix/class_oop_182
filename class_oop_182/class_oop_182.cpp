@@ -43,5 +43,7 @@ int main() {
 	cout << "Masukan NIM= ";
 	cin >> mhs.nim;
 
-
+	MK.inputMK();
+	mhs.tampil();
+	MK.tampilMK();
 }
